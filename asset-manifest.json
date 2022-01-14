@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.js": "/static/js/main.22b7d947.chunk.js",
-    "main.js.map": "/static/js/main.22b7d947.chunk.js.map",
+    "main.js": "/static/js/main.8ab7e713.chunk.js",
+    "main.js.map": "/static/js/main.8ab7e713.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.92ed1588.js",
     "runtime-main.js.map": "/static/js/runtime-main.92ed1588.js.map",
-    "static/js/2.8394f4d7.chunk.js": "/static/js/2.8394f4d7.chunk.js",
-    "static/js/2.8394f4d7.chunk.js.map": "/static/js/2.8394f4d7.chunk.js.map",
+    "static/css/2.8cb58077.chunk.css": "/static/css/2.8cb58077.chunk.css",
+    "static/js/2.412a151a.chunk.js": "/static/js/2.412a151a.chunk.js",
+    "static/js/2.412a151a.chunk.js.map": "/static/js/2.412a151a.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.8394f4d7.chunk.js.LICENSE.txt": "/static/js/2.8394f4d7.chunk.js.LICENSE.txt"
+    "static/css/2.8cb58077.chunk.css.map": "/static/css/2.8cb58077.chunk.css.map",
+    "static/js/2.412a151a.chunk.js.LICENSE.txt": "/static/js/2.412a151a.chunk.js.LICENSE.txt",
+    "static/media/700.css": "/static/media/noto-sans-vietnamese-700-normal.cd855a81.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.92ed1588.js",
-    "static/js/2.8394f4d7.chunk.js",
-    "static/js/main.22b7d947.chunk.js"
+    "static/css/2.8cb58077.chunk.css",
+    "static/js/2.412a151a.chunk.js",
+    "static/js/main.8ab7e713.chunk.js"
   ]
 }
